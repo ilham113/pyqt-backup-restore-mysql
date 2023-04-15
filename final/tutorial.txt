@@ -1,0 +1,5 @@
+1. open "edit the system environment varialble"
+2. klik environment variable
+3. pada system variable cari variable dengan nama path ->kemudian double klik
+4. klik new ->pastekan "D:\xampp\mysql\bin"
+kemudian ok ->ok ->ok
